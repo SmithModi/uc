@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AES/static/css/main.47b19ffa.css",
+    "main.js": "/AES/static/js/main.5611af1f.js",
+    "static/js/787.ef284bb1.chunk.js": "/AES/static/js/787.ef284bb1.chunk.js",
+    "index.html": "/AES/index.html",
+    "main.47b19ffa.css.map": "/AES/static/css/main.47b19ffa.css.map",
+    "main.5611af1f.js.map": "/AES/static/js/main.5611af1f.js.map",
+    "787.ef284bb1.chunk.js.map": "/AES/static/js/787.ef284bb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47b19ffa.css",
+    "static/js/main.5611af1f.js"
+  ]
+}
